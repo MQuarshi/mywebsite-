@@ -77,13 +77,6 @@ export const galleryItems = [
     type: 'video'
   },
   {
-    id: 106,
-    image: '/images/gallery/babyshower-3.mp4',
-    title: 'Baby Shower Joy',
-    category: 'Baby Shower',
-    type: 'video'
-  },
-  {
     id: 107,
     image: '/images/gallery/grad-4.jpeg',
     title: 'Graduation Celebration',
